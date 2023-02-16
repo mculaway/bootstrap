@@ -1,0 +1,14 @@
+.hero{
+    background: url("assets/Intersect.png") no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-color: #FFD699;
+}
+.vr{
+    opacity: 100%;
+    height: 24px;
+    width: 2px;
+}
+.active{
+    border-bottom:  #ED8E00 solid 3px;
+}
